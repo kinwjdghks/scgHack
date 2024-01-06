@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Gmarketlight";
+  font-style: normal;
+  font-weight: light;
+  src: url("./GmarketSansTTFLight.ttf");
+}
+
+@font-face {
+  font-family: "Gmarketmedium";
+  font-style: normal;
+  font-weight: medium;
+  src: url("./GmarketSansTTFMedium.ttf");
+}
+
+@font-face {
+  font-family: "Gmarketbold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("./GmarketSansTTFBold.ttf");
+}
+
+@font-face {
+  font-family: "Pretendardmedium";
+  font-style: normal;
+  font-weight: medium;
+  src: url("./Pretendard-Medium.otf");
+}
