@@ -25,3 +25,10 @@
   font-weight: medium;
   src: url("./Pretendard-Medium.otf");
 }
+
+@font-face {
+  font-family: "Pretendardlight";
+  font-style: normal;
+  font-weight: light;
+  src: url("./Pretendard-Light.otf");
+}
