@@ -31,7 +31,7 @@ const FoodCard = ({foodData,setSelectedRecipe,enableHover}:foodCardProps):ReactN
 
     return <div className={`(container) w-[466px] h-[205px] mb-5 rounded-[4px] flex bg-white border-[#fff7ef] border-2 ${enableHover ? 'hover:border-[#ED653F]' : 'hover:border-[#fff7ef]'} border-solid box-content`}
             onClick={()=>{setSelectedRecipe(foodData)}}>
-        <img className="(image) w-[177px] h-full object-contain"
+        <img className="(image) w-[177px] h-full object-cover"
           src={foodData.imgUrl}
           alt='foodImg'
           />
